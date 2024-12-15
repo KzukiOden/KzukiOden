@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KzukiOden  
+# 👋 Hi, I’m @KzukiOden  AKA EDWARD NEWGATE
 
 ## 👀 About Me  
 - 🎓 I’m currently pursuing a **BS in Software Engineering** at **City University of Science and Information Technology**.  
@@ -21,8 +21,9 @@
 
 ## ⚡ Fun Facts  
 - 🎮 I love building immersive experiences in **VR** and creating virtual terrains inspired by anime like **Vinland Saga**.  
-- 🧑‍🍳 I’m helping my mom launch her **cooking channel**, showcasing amazing recipes!  
+- 🏴‍☠️ I’m a huge anime fan! Some of my favorites include **One Piece**, **Vinland Saga**, **Plunderer**, **Berserk**, **Vagabond**, and more. I’m currently watching **Bleach**!   
 - 💻 Besides app dev, I also geek out over **PC building** and the latest in **software trends**.  
+- 📊 I make **stories with data**, combining creativity with tech! 
 
 <!---
 KzukiOden/KzukiOden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
